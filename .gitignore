@@ -1,1 +1,3 @@
 docker/.env
+app-data/X-clusive.db
+__pycache__/
